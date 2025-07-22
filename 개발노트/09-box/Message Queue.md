@@ -23,7 +23,7 @@ related_concepts: []
 
 - **Message**: 전달할 데이터 단위 (문자열, JSON, 객체 등)
     
-- **Queue**: [[|Queue큐, FIFO(First-In-First-Out)]] 자료구조  
+- **Queue**: [[Queue|큐, FIFO(First-In-First-Out)]] 자료구조  
     → **메시지를 일정한 순서로 임시 저장하고 전달하는 구조**
     
 
