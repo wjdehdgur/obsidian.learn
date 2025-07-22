@@ -4,7 +4,7 @@ created: <% tp.date.now("YYYY-MM-DD(dd) / HH:mm") %>
 topic: ""
 category: backend
 summary: ""
-tags: [오답노트]
+tags: []
 
 # ✅ 오답 복습 관리
 concept: ""
