@@ -1,18 +1,16 @@
 ---
 type: learn
-created: 2025-07-23(수) / 21:59
+created: 2025-07-21(월) / 23:13
 topic: ""
 category: backend
 summary: ""
 tags: []
-
-# ✅ 오답 복습 관리
 concept: ""
 review_count: 0
 mistake_count: 0
-last_review: 2025-07-23
+last_review: 2025-07-21
 review_success: false
-related_concepts: []
+related_concepts:
 ---
 ---
 
