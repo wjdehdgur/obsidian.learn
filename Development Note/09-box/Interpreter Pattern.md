@@ -14,7 +14,7 @@ last_review: 2025-08-02
 review_success: false
 related_concepts: []
 ---
-````
+
 ## ✅ 인터프리터 패턴(Interpreter Pattern)
 
 ### 🔤 용어 해석
