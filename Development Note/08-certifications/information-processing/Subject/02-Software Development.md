@@ -121,7 +121,7 @@
     
 - **기타**: [[Sequence|순차]], [[Selection|선택]], [[Iteration|반복]] 3가지 기본 제어 구조 기반
     
-- **기출 포인트**: [[Goto문|GOTO]] 지양, [[Top-down|하향식]] 설계 기법과 연계
+- **기출 포인트**: [[goto]] 지양, [[Top-down|하향식]] 설계 기법과 연계
     
 
 ---
@@ -178,7 +178,7 @@
 
 ---
 
-### [[Command Line Interface|CLI]] vs [[GUI(Graphical User Interface)|GUI]]
+### [[CLI(Command Line Interface)|CLI]] vs [[GUI(Graphical User Interface)|GUI]]
 
 - **중요도**: 중
     

@@ -27,15 +27,11 @@
 	🧩 표기 규칙 요약
 	
 	
-	- **기본 형식** : `[[약어(약어 또는 생략)(영문 전체)|한글(약어 or 영문 전체)
-		- 예 : `[[OOP(Object-Oriented Programming)|OOP]]`
+	- **기본 형식** : `[[약어(약어 또는 생략)(영문 전체)]]
+		- 예 : `[[OOP(Object-Oriented Programming)]]`
 	- **약어가 없을 경우** : 약어 생략 (`()`도 생략)
-		- 예: `[[Encapsulation|캡슐화(Encapsulatoin)]]
+		- 예: `[[Encapsulation]]
 		- 예: `[[Check-in]]`
-	- **표(table) 내부에서의 사용** :`[[약어(영문 전체)]]` 형식으로만 사용 (한글 절대 금지)
-		- 예: `[[OOP(Object-Oriented Programming)]]`
-		- 예: `[[Encapsulation]]`
-		- 오류 예 : `[[OOP(Object-Oriented Programming|OOP)]]`
 	
 	---
 	
@@ -84,11 +80,14 @@
 
 | 구성 요소 | 설명 |
 |-----------|------|
-| ...       | ...  |
+
+---
+### 📚 예시로 이해하기1(이해하기 쉬운 직관적인 예시)
+
 
 ---
 
-### 📚 예시로 이해하기 (언어 명시)
+### 📚 예시로 이해하기2 (언어 명시)
 
 ```{언어}
 {예시 코드}
