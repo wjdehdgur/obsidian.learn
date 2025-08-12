@@ -4,15 +4,13 @@ created: 2025-08-01(금) / 01:34
 topic: ""
 category: backend
 summary: ""
-tags: []
-
-# ✅ 오답 복습 관리
+tags: 
 concept: ""
 review_count: 0
 mistake_count: 0
 last_review: 2025-08-01
 review_success: false
-related_concepts: []
+related_concepts:
 ---
 ## ✅ 럼바우 분석 기법
 
