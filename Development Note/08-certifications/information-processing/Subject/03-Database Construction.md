@@ -93,7 +93,7 @@
 
 ---
 
-### [[ERD(Entity-Relationship Diagram)|ER 다이어그램]]
+### [[Entity-Relationship Diagram|ER 다이어그램]]
 
 - **중요도**: 높음
     
@@ -145,7 +145,7 @@
 
 ---
 
-### [[Data Control Language|DCL]]
+### [[DCL]]
 
 **중요도**: 중  
 **난이도**: 하  
